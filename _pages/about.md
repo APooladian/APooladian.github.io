@@ -24,7 +24,7 @@ Broadly speaking, I am interested in the interplay of optimization, computationa
 
 <!-- My MSc has been graciously funded by the NSERC CGS-M scholarship, FRQNT Master's Scholarship, the Lorne Trottier Accelerator Fellowship, and Mitacs scholarship. -->
 
-Email: aram-alexandre[dot]pooladian[at]mail[dot]mcgill[dot]ca
+Email: aram-alexandre[dot]pooladian[at]nyu[dot]edu
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
