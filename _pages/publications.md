@@ -5,7 +5,8 @@ title: publications
 ---
 
 #### Preprints and submissions
-1. Hoheisel, T., Pablos, B., Pooladian, A-A., Schwartz, A., and Steverango, L. (alphabetical) "A study of one-parameter regularizations for mathematical programs with vanishing constraints" (2020) [<a href="http://www.math.mcgill.ca/hoheisel/MPVC_Survey-6.pdf">PDF</a>]
+1. Finlay, C.\*, Gerolin, A.\*, Oberman, A., Pooladian A-A.\* (alphabetical) "Learning normalizing flows from Entropy-Kantorovich potentials" [<a href="https://arxiv.org/pdf/2006.06033.pdf">PDF</a>] 
+2. Hoheisel, T., Pablos, B., Pooladian, A-A., Schwartz, A., and Steverango, L. (alphabetical) "A study of one-parameter regularizations for mathematical programs with vanishing constraints" (2020) [<a href="http://www.math.mcgill.ca/hoheisel/MPVC_Survey-6.pdf">PDF</a>]
 
 #### Conference papers
 1. Pooladian, A-A.\*, Finlay, C., Hoheisel, T., and Oberman, A. "A principled approach for generating adversarial images under non-smooth dissimilarity metrics", in *23rd International Conferece on Artificial Intelligence and Statistics (AISTATS 2020)*. [<a href="https://github.com/APooladian/FarkasLayers">Github</a>] [<a href="https://arxiv.org/pdf/1908.01667.pdf">PDF</a>]
