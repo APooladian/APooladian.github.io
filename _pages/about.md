@@ -6,7 +6,7 @@ description: <a href="https://www.mcgill.ca/mathstat/">Department of Mathematics
 
 profile:
   align: right
-  image: I_hate_this_photo_of_me.jpg
+  image: I_love_this_photo_of_me.jpg
   address: >
     <!-- <p>1007 Burnside Hall, McGill University</p> -->
     <!-- <p>123 your address street</p> -->
