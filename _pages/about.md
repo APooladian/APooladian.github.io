@@ -18,7 +18,7 @@ social: true
 
 I am a PhD student at the <a href="https://cds.nyu.edu"> Center for Data Science </a> at New York University. 
 
-Broadly speaking, I am interested in the interplay of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning, and inverse problems. Recently, I have also started to think about normalizing flows, and how their connections to optimal transport theory.
+Broadly speaking, I am interested in the interplay of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning, and inverse problems.
 
 For the duration of the summer (and maybe beyond), I'm organizing a reading group on Optimal Transport; see <a href="https://reading-group-mcgill.github.io/">here</a>.
 
