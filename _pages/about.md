@@ -2,13 +2,12 @@
 layout: about
 permalink: /
 title: Aram-Alexandre Pooladian
-description: <a href="https://www.mcgill.ca/mathstat/">Department of Mathematics and Statistics, McGill University</a>
+description: <a href="https://cds.nyu.edu/">Center for Data Science, New York University</a>
 
 profile:
   align: right
   image: I_love_this_photo_of_me.jpg
   address: >
-    <!-- <p>1007 Burnside Hall, McGill University</p> -->
     <!-- <p>123 your address street</p> -->
     <!-- <p>Your City, State 12345</p> -->
 
@@ -16,9 +15,7 @@ news: true
 social: true
 ---
 
-I am a PhD student at the <a href="https://cds.nyu.edu"> Center for Data Science </a> at New York University. 
-
-Broadly speaking, I am interested in the interplay of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning, and inverse problems.
+I am a PhD student at the Center for Data Science at New York University. My interests lie at the intersection of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning.
 
 For the duration of the summer (and maybe beyond), I'm organizing a reading group on Optimal Transport; see <a href="https://reading-group-mcgill.github.io/">here</a>.
 
