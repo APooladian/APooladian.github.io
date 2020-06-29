@@ -15,7 +15,7 @@ news: true
 social: true
 ---
 
-I am a PhD student at the Center for Data Science at New York University. My interests lie at the intersection of optimization, computational and statistical optimal transport, high dimensional statistics, problems in deep learning.
+I am a PhD student at the Center for Data Science at New York University. My interests lie at the intersection of optimization theory, computational and statistical optimal transport, high dimensional statistics, and problems in deep learning.
 
 For the duration of the summer (and maybe beyond), I'm organizing a reading group on Optimal Transport; see <a href="https://reading-group-mcgill.github.io/">here</a>.
 
