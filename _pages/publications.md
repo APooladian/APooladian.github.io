@@ -14,7 +14,7 @@ title: publications
 1. Finlay, C.\*, Gerolin, A.\*, Oberman, A., Pooladian A-A.\* (alphabetical) "Learning normalizing flows from Entropy-Kantorovich potentials" [<a href="https://arxiv.org/pdf/2006.06033.pdf">PDF</a>], in *ICML workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (INNF+ 2020)*, with contributing talk
 
 #### Journal articles
-1. Hoheisel, T., Pablos, B., Pooladian, A-A., Schwartz, A., and Steverango, L. (alphabetical) "A study of one-parameter regularizations for mathematical programs with vanishing constraints", in *Optimization Methods and Software* (to appear)
+1. Hoheisel, T., Pablos, B., Pooladian, A-A., Schwartz, A., and Steverango, L. (alphabetical) "A study of one-parameter regularizations for mathematical programs with vanishing constraints", in *Optimization Methods and Software* (to appear) [<a href="https://arxiv.org/pdf/2006.15662.pdf>"PDF</a>]
 
 #### Deep learning projects
 1. Pooladian, A-A.\*, Finlay, C., and Oberman, A., "Farkas layers: Don't shift the data, fix the geometry" (2019) [<a href="https://github.com/APooladian/FarkasLayers">Github</a>] [<a href="https://arxiv.org/pdf/1910.02840.pdf">PDF</a>]
