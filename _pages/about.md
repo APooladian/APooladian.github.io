@@ -19,7 +19,7 @@ I am a PhD student at the Center for Data Science at New York University. My int
 
 For the duration of the summer (and maybe beyond), I'm organizing a reading group on Optimal Transport; see <a href="https://reading-group-mcgill.github.io/">here</a>.
 
-Before joining CDS, I completed my Bachelor's and Master's degree in (applied) mathematics at McGill University, under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>.
+Before joining CDS, I completed my Bachelor's and Master's degrees in (applied) mathematics at McGill University, the latter under the supervision of <a href="http://www.math.mcgill.ca/hoheisel/">Tim Hoheisel</a> and <a href="http://www.adamoberman.net">Adam Oberman</a>.
 
 <!-- My MSc has been graciously funded by the NSERC CGS-M scholarship, FRQNT Master's Scholarship, the Lorne Trottier Accelerator Fellowship, and Mitacs scholarship. -->
 

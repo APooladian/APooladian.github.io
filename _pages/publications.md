@@ -11,7 +11,7 @@ title: publications
 2. Finaly C.\*, Pooladian, A-A.\*, and Oberman, A., " The LogBarrier Adversarial Attack: Making effective use of decision boundary information", in *IEEE International Conference on Computer Vision (ICCV 2019)* [<a href="https://github.com/cfinlay/logbarrier">Github</a>] [<a href="https://arxiv.org/pdf/1903.10396.pdf">PDF</a>] 
 
 #### Workshop papers
-1. Finlay, C.\*, Gerolin, A.\*, Oberman, A., Pooladian A-A.\* (alphabetical) "Learning normalizing flows from Entropy-Kantorovich potentials" [<a href="https://arxiv.org/pdf/2006.06033.pdf">PDF</a>], in *ICML workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (INNF+ 2020)*, with contributing talk
+1. Finlay, C.\*, Gerolin, A.\*, Oberman, A., Pooladian A-A.\* (alphabetical) "Learning normalizing flows from Entropy-Kantorovich potentials", in *ICML workshop on Invertible Neural Networks, Normalizing Flows, and Explicit Likelihood Models (INNF+ 2020)*, with contributing talk, [<a href="https://arxiv.org/pdf/2006.06033.pdf">PDF</a>]
 
 #### Journal articles
 1. Hoheisel, T., Pablos, B., Pooladian, A-A., Schwartz, A., and Steverango, L. (alphabetical) "A study of one-parameter regularizations for mathematical programs with vanishing constraints", in *Optimization Methods and Software* (to appear) [<a href="https://arxiv.org/pdf/2006.15662.pdf">PDF</a>]
