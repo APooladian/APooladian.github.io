@@ -7,7 +7,7 @@ title: publications
 #### Preprints and submissions
 
 #### Conference papers
-1. Pooladian, A-A.\*, Finlay, C., Hoheisel, T., and Oberman, A. "A principled approach for generating adversarial images under non-smooth dissimilarity metrics", in *23rd International Conferece on Artificial Intelligence and Statistics (AISTATS 2020)*. [<a href="https://github.com/APooladian/FarkasLayers">Github</a>] [<a href="https://arxiv.org/pdf/1908.01667.pdf">PDF</a>]
+1. Pooladian, A-A.\*, Finlay, C., Hoheisel, T., and Oberman, A. "A principled approach for generating adversarial images under non-smooth dissimilarity metrics", in *23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020)*. [<a href="https://github.com/APooladian/FarkasLayers">Github</a>] [<a href="https://arxiv.org/pdf/1908.01667.pdf">PDF</a>]
 2. Finaly C.\*, Pooladian, A-A.\*, and Oberman, A., " The LogBarrier Adversarial Attack: Making effective use of decision boundary information", in *IEEE International Conference on Computer Vision (ICCV 2019)* [<a href="https://github.com/cfinlay/logbarrier">Github</a>] [<a href="https://arxiv.org/pdf/1903.10396.pdf">PDF</a>] 
 
 #### Workshop papers
